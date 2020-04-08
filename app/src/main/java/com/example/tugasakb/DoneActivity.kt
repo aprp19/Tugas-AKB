@@ -15,8 +15,7 @@ class DoneActivity : AppCompatActivity() {
 
         val btnClick = findViewById(R.id.d_btn1) as Button
         btnClick.setOnClickListener {
-            finish()
-            System.exit(0)
+            finishAffinity()
         }
     }
 }
