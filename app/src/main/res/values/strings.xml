@@ -11,4 +11,13 @@
     <string name="terms">
         Dengan menekan tombol masuk berarti Anda menyetujui <b>Ketentuan Pengguna</b> dan <b>Kebijakan Data</b> kami
     </string>
+    <string name="btn2">Masuk</string>
+    <string name="t_view5">Belum punya kode keluarga?</string>
+    <string name="btn3">Beli Kode Keluarga Disini</string>
+    //Biodata Activity
+    <string name="b_tview1">Nama Panggilan Kamu</string>
+    <string name="b_hint1">Contoh : Budi</string>
+    <string name="b_tview2">Umur Kamu</string>
+    <string name="b_hint2">Contoh : 12</string>
+    <string name="b_btn1">Selanjutnya</string>
 </resources>
