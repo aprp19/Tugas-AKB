@@ -26,7 +26,7 @@ class BiodataActivity : AppCompatActivity() {
 
             if (msg.trim().length > 0 && msg2.trim().length > 0) {
                 Toast.makeText(applicationContext, "Sukses", Toast.LENGTH_SHORT).show()
-//                startActivity(Intent(this, BiodataActivity::class.java))
+                startActivity(Intent(this, DoneActivity::class.java))
             } else {
                 Toast.makeText(applicationContext, "Harap isi Nama dan Umur kamu!", Toast.LENGTH_SHORT).show()
             }

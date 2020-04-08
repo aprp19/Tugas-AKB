@@ -20,4 +20,9 @@
     <string name="b_tview2">Umur Kamu</string>
     <string name="b_hint2">Contoh : 12</string>
     <string name="b_btn1">Selanjutnya</string>
+    //Done Activity
+    <string name="d_tview1">
+        Beres! Sekarang kamu udah bisa ngecek penggunaan HP mu tiap hari buat bantu kamu ngatur waktu :)
+    </string>
+    <string name="d_btn1">Oke</string>
 </resources>
