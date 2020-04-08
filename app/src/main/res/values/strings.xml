@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tugas AKB</string>
+    //Main Activity
+    <string name="img1">img1</string>
+    <string name="t_view1">Monitory Membantu Anda Mengontrol HP Anak</string>
+    <string name="btn1">Mulai</string>
+    //Login Activity
+    <string name="t_view2">Kode Keluarga</string>
+    <string name="t_view3">Ketikkan kode keluarga yang Ayah Bunda miliki disini</string>
+    <string name="hint1">A1B2C3</string>
+    <string name="terms">
+        Dengan menekan tombol masuk berarti Anda menyetujui <b>Ketentuan Pengguna</b> dan <b>Kebijakan Data</b> kami
+    </string>
+</resources>
